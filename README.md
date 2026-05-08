@@ -29,6 +29,6 @@ stability and chaotic dynamics in high-dimensional systems.
 ---
 
 ## Links
-- 🌐 Website: https://henokmoges.github.io
+- 🌐 Website: https://htmoges.github.io
 - 📄 Google Scholar: https://scholar.google.com/citations?user=2XKhiYYAAAAJ&hl=en
 - 💼 LinkedIn: https://linkedin.com/in/htmoges
